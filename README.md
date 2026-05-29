@@ -1,2 +1,2 @@
-# EvangelismPublic
-A collection of presentations and writings.
+# Evangelism
+Teach the Word...
