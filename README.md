@@ -5,6 +5,7 @@
 - [How to discern the Truth](2026-Q2/Devotionals/HowToDiscernTheTruth.pdf)
 - [How to discern the Sacred](2026-Q2/Devotionals/HowToDiscernTheSacred.pdf)
 - [Living between two Righteousness's](2026-Q2/Devotionals/LivingBetweenTwoRighteousness.pdf)
+- [God's Created Order](2026-Q1/Commentary/GodsCreatedOrder.pdf)
 - [How to Know God](2026-Q1/Commentary/HowToKnowGod.pdf)
 - [Biblical Reconciliation](2026-Q1/Commentary/BiblicalReconciliation.pdf)
 
