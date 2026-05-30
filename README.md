@@ -1,7 +1,13 @@
 # Teach the Word...
 
-## [How to discern the Truth...](2026-Q2/Devotionals/HowToDiscernTheTruth.pdf)
-## [How to discern the Sacred...](2026-Q2/Devotionals/HowToDiscernTheSacred.pdf)
+
+## Commentary
+- [How to discern the Truth...](2026-Q2/Devotionals/HowToDiscernTheTruth.pdf)
+- [How to discern the Sacred...](2026-Q2/Devotionals/HowToDiscernTheSacred.pdf)
+- [Living between two Righteousness's](2026-Q2/Devotionals/LivingBetweenTwoRighteousness.pdf)
+- [How to Know God](2026-Q1/Commentary/HowToKnowGod.pdf)
+- [Biblical Reconciliation](2026-Q1/Commentary/BiblicalReconciliation.pdf)
+
 
 ## Recommended Topics
 - [God of Promises](2026-Q4/) - God's character, the basis for both promise and covenant.
