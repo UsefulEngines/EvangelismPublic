@@ -20,5 +20,13 @@
 
 
 
-![Evangelism graphic](images/TeachTheWord-qr.png)
+
+----------------------------------------------------------------------------------------------------------------
+
+
+<p align="center">
+
+  <img src="./images/TeachTheWord-qr2.png" alt="Project Logo" width="300">
+
+</p>
 
