@@ -8,6 +8,7 @@
 - [God's Created Order](2026-Q1/Commentary/GodsCreatedOrder.pdf)
 - [How to Know God](2026-Q1/Commentary/HowToKnowGod.pdf)
 - [Biblical Reconciliation](2026-Q1/Commentary/BiblicalReconciliation.pdf)
+- [Empathy, Truth, and the Cave](2026-Q2/Devotionals/TheSinOfEmpathy.pdf)
 
 
 ## Recommended Topics
