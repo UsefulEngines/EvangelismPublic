@@ -9,6 +9,7 @@
 - [How to Know God](2026-Q1/Commentary/HowToKnowGod.pdf)
 - [Biblical Reconciliation](2026-Q1/Commentary/BiblicalReconciliation.pdf)
 - [Empathy, Truth, and the Cave](2026-Q2/Devotionals/TheSinOfEmpathy.pdf)
+- [Empathy, Love, and Truth](2026-Q2/Devotionals/EmpathyLoveTruth.pdf)
 
 
 ## Recommended Topics
@@ -18,7 +19,7 @@
 - [Church Unity](2025-Q3) - A call to Reconciliation and the Obedience of Faith.
 - [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - May Elders delegate teaching authority?
 - [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
-- [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the first Enoch narrative.
+- [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the First Enoch narrative.
 
 
 
