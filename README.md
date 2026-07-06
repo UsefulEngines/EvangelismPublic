@@ -10,6 +10,7 @@
 - [Biblical Reconciliation](2026-Q1/Commentary/BiblicalReconciliation.pdf)
 - [Empathy, Truth, and the Cave](2026-Q2/Devotionals/TheSinOfEmpathy.pdf)
 - [Empathy, Love, and Truth](2026-Q2/Devotionals/EmpathyLoveTruth.pdf)
+- [Good Intentions are not Enough](2026-Q3/Devotionals/GoodIntentionsAreNotEnough.pdf)
 
 
 ## Recommended Topics
