@@ -11,7 +11,7 @@
 - [Empathy, Truth, and the Cave](2026-Q2/Devotionals/TheSinOfEmpathy.pdf)
 - [Empathy, Love, and Truth](2026-Q2/Devotionals/EmpathyLoveTruth.pdf)
 - [Good Intentions are not Enough](2026-Q3/Devotionals/GoodIntentionsAreNotEnough.pdf)
-- [The Rise of Man-Made Systems](2026-Q3/Devotionals/TheRiseOfManMadeSystems.pdf)
+- [The Rise of Man-Made Systems](2026-Q3/Devotionals/TheRiseOfManmadeSystems.pdf)
 - [The Purpose of the Good, and how Sacrifice Reveals It](2026-Q3/Devotionals/ThePurposeOfTheGood.pdf)
 
 
