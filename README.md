@@ -13,6 +13,7 @@
 - [Good Intentions are not Enough](2026-Q3/Devotionals/GoodIntentionsAreNotEnough.pdf)
 - [The Rise of Man-Made Systems](2026-Q3/Devotionals/TheRiseOfManmadeSystems.pdf)
 - [The Purpose of the Good, and how Sacrifice Reveals It](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
+- [Trained to Tell the Difference](2026-Q3/Devotionals/TrainedToTellTheDIfference.pdf)
 
 
 ## Recommended Topics
