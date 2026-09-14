@@ -2,7 +2,7 @@
 
 ## A 12-Week Adult Bible Class
 
-**Format:** 45-minute lecture + 10 minutes guided discussion, weekly
+**Format:** 30-minute lecture + 10 minutes guided discussion, weekly
 **Audience:** Mixed adult Bible class (new and mature believers together)
 **Translation:** NET Bible
 **At-home component:** one light reading assignment per week, preparing the next lecture
@@ -11,7 +11,7 @@
 
 ## Course Summary Statement
 
-> **The Good is not an idea to admire but the character of God to be conformed to — and Scripture's consistent method for that conforming is sacrifice, tested obedience, and trained discernment.** This course traces one thread from Genesis to the church age: God speaks, faith hears, and obedience makes the invisible visible. Along the way it asks the questions every believer eventually faces: What is worship, and how does it differ from religion? Why isn't sincerity enough? How does God test faith in every covenant — and what are the church's tests? How does a Christian learn to tell the genuine from the counterfeit? Where does teaching authority in the church come from, and how is God's created order reflected in His house? The course ends where Hebrews says maturity ends: not in knowing more, but in perceptions trained by practice to discern good and evil — and in becoming, by this time, teachers. Mercy first, altar second: everything asked in this course stands on a sacrifice already completed.
+> **The Good is not an idea to admire but the character of God to be conformed to — and Scripture's consistent method for that conforming is sacrifice, tested obedience, and trained discernment.** This course traces one thread from Genesis to the church age: God speaks, faith hears, and obedience makes the invisible visible. Along the way it asks the questions every believer eventually faces: What is worship, and how does it differ from religion? Why isn't sincerity enough? How does God test faith in every covenant, and what are the church's tests? How does a Christian learn to tell the genuine from the counterfeit? Where does teaching authority in the church come from, and how is God's created order reflected in His house? The course ends where Hebrews says maturity ends: not in knowing more, but in perceptions trained by practice to discern good and evil, and in becoming, by this time, teachers. Mercy first, altar second: everything asked in this course stands on a sacrifice already completed.
 
 ---
 
@@ -186,7 +186,7 @@
 
 # UNIT IV — GOD'S HOUSE
 
-*Pastoral note for a mixed class: Weeks 10–11 handle contested ground. The tone throughout is what the material argues — authority located in the apostolic word, conclusions held with precision, honest acknowledgment of what Scripture does and does not say, and full honor for the substantial, recognized ministry of women in the New Testament. Give extra care to the discussion segments these two weeks.*
+*Note for a mixed class: Weeks 10–11 handle contested ground. The tone throughout is what the material argues — authority located in the apostolic word, conclusions held with precision, honest acknowledgment of what Scripture does and does not say, and full honor for the substantial, recognized ministry of women in the New Testament.*
 
 ## Week 10 — Apostolic Appointment: Where Doctrinal Authority Comes From
 
@@ -276,8 +276,3 @@
 
 **The 10-minute discussions are load-bearing, not decorative.** The course thesis is that perception is trained by practice; the discussion segment is the weekly practice. Resist the temptation to lecture 55 minutes — the questions above are written so each can surface in-room disagreement safely.
 
-**Two weeks need extra pastoral preparation.** Week 6 (empathy/truth) and Week 11 (roles): both are places where a mixed class contains people carrying wounds on the topic. The material as outlined leads with what Scripture affirms before what it restricts; keep that order in the room.
-
-**The grace spine is deliberate.** Weeks 4, 7, 9, and 12 each restate mercy-before-altar. In a course this heavy on obedience, that repetition is not redundancy — it is the guardrail that keeps the whole from being heard as works-righteousness.
-
-**If the course must compress to fewer weeks:** merge 5+6 (discernment and love-in-truth) and 10+11 (one church-order week), yielding ten. If it can expand: Week 8 divides naturally into entry tests and continuing tests.
