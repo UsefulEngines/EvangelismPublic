@@ -272,7 +272,4 @@
 | 11 | *1 Timothy 2 Exegesis v2*; *God's Created Order v2*; compilation Part I (ante-Nicene practice) |
 | 12 | *Prophet, Priest, King* speech (reframe household material for mixed audience per Week 12 flow) |
 
-## Notes on Delivery
-
-**The 10-minute discussions are load-bearing, not decorative.** The course thesis is that perception is trained by practice; the discussion segment is the weekly practice. Resist the temptation to lecture 55 minutes — the questions above are written so each can surface in-room disagreement safely.
 
