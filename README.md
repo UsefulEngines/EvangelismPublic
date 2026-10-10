@@ -2,9 +2,9 @@
 
 
 ## Current Course - The Obedience of Faith
-- [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.md)
-- [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.md)
-- [God's Will - 3 Types Observed](2026-Q4/Resources/TheThreeTypesOfGodsWill.md)
+- [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.pdf)
+- [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
+- [God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
 
 
 ## Commentary
@@ -23,10 +23,10 @@
 
 
 ## Recommended Topics
-- [God of Promises](2025-Q4/) - God's character, the basis for both promise and covenant.
-- [God of Righteousness](2026-Q1) - God's righteousness versus mankind's attempts at morality.
-- [The Gospel](2026-Q2) - Paul the Apostle's seminal message to the church in Rome.
-- [Church Unity](2025-Q3) - A call to Reconciliation and the Obedience of Faith.
+- [God of Promises](2025-Q4/Promises_of_God_Outline.pdf) - God's character, the basis for both promise and covenant.
+- [God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
+- [The Gospel](2026-Q2/Romans-2026-Q2.pdf) - Paul the Apostle's seminal message to the church in Rome.
+- [Church Unity](2025-Q3/Unity-Outline.pdf) - A call to Reconciliation and the Obedience of Faith.
 - [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - May Elders delegate teaching authority?
 - [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
 - [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the First Enoch narrative.
