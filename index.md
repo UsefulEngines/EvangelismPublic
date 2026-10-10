@@ -4,7 +4,7 @@ layout: default
 
 {% include_relative README.md %}
 
-## Browse the repository
+## Browse the repository by published Year/Quarter
 
 - [2015–2024](https://github.com/usefulengines/EvangelismPublic/tree/main/2015-2024)
 - [2025 Q3](https://github.com/usefulengines/EvangelismPublic/tree/main/2025-Q3)
