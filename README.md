@@ -1,6 +1,6 @@
 # Teach the Word...
 
----
+
 ## Current Course - The Obedience of Faith
 - [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.md)
 - [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.md)
