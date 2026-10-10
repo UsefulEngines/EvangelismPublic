@@ -11,7 +11,7 @@
 
 ## Course Summary Statement
 
-> **The Good is not an idea to admire but the character of God to be conformed to — and Scripture's consistent method for that conforming is sacrifice, tested obedience, and trained discernment.** This course traces one thread from Genesis to the church age: God speaks, faith hears, and obedience makes the invisible visible. Along the way it asks the questions every believer eventually faces: What is worship, and how does it differ from religion? Why isn't sincerity enough? How does God test faith in every covenant, and what are the church's tests? How does a Christian learn to tell the genuine from the counterfeit? Where does teaching authority in the church come from, and how is God's created order reflected in His house? The course ends where Hebrews says maturity ends: not in knowing more, but in perceptions trained by practice to discern good and evil, and in becoming, by this time, teachers. Mercy first, altar second: everything asked in this course stands on a sacrifice already completed.
+> **The Good is not an idea to admire but the character of God to be conformed to. Scripture's consistent method for that conforming is sacrifice, tested obedience, and trained discernment.** This course traces one thread from Genesis to the church age: God speaks, faith hears, and obedience makes the invisible visible. Along the way it asks the questions every believer eventually faces: What is worship, and how does it differ from religion? Why isn't sincerity enough? How does God test faith in every covenant, and what are the church's tests? How does a Christian learn to tell the genuine from the counterfeit? Where does teaching authority in the church come from, and how is God's created order reflected in His house? The course ends where Hebrews says maturity ends: not in knowing more, but in perceptions trained by practice to discern good and evil, and in becoming, by this time, teachers. Mercy first, altar second: everything asked in this course stands on a sacrifice already completed.
 
 ---
 
@@ -273,3 +273,9 @@
 | 12 | *Prophet, Priest, King* speech (reframe household material for mixed audience per Week 12 flow) |
 
 
+## Notes
+
+**Quotes**
+ - "For obedience is distrust of oneself in everything, however good it may be, right to the end of one's life." - Step4 The Ladder of Divine Ascent, St John Climacus
+
+ 

@@ -97,22 +97,7 @@ This is the emotional and theological peak of the finale. Give it room.
 - [ ] Reread your own Week 1 notes so the Hebrews 5:12 "rebuke → commission" arc is precise and moving
 - [ ] Read 2 Timothy 1:5 and 3:14–15 — Lois, Eunice, and Timothy's home-grown faith
 - [ ] Prepare to build the gold stack as a genuine callback — know the four Week-2 layers cold
-- [ ] Decide how you'll invite concrete Q2 commitments (written down? spoken to a neighbor?) — motion is the goal
-- [ ] Plan the ending: the banner, a silence, a closing prayer, thanks — and time to linger afterward
-- [ ] Consider a one-page course recap or the "whole course in one breath" summary as a takeaway handout
 
-## If You Run Long
-
-The finale is the one week where you should *guard the ending above all else* — a rushed close undoes twelve weeks of work. Cut in this order: compress the Abraham/Joshua click on slide 2 (one sentence); trim the 2 Timothy 2:2 unpacking on slide 3 (the relay point is already made); shorten the grace-bookends click on slide 4 to a single line. **Never cut:** the "everyone has a post" material (it's what makes this a finale for the *whole* class, not just parents), the Hebrews 5:12 rebuke-to-commission resolution (the course's emotional peak), the gold-stack callback, Q2 (the concrete first step — the course's whole point is motion), or the final banner and the time to let it land. If discussion must shrink, keep Q2 and let Q1 be brief — gratitude can be felt in one or two names; resolve needs a real commitment. Better to end five minutes early with a proper landing than to rush the last word of the course.
 
 ---
 
-## A Note on the Completed Course
-
-With Week 12, all twelve weeks are built — deck plus teacher guide for each, across the five units (Foundations, Discernment, Testing, God's House, Commission). A few things worth doing now that the whole is in view:
-
-- **A course-wide reading card.** The twelve weekly readings collected on one page (they're listed in the master outline) makes a clean handout for week 1 of the next run-through.
-- **A recap/takeaway sheet.** The "whole course in one breath" paragraph from slide 7, plus the four recurring anchors (the Good is God's character · sacrifice makes worship visible · mercy first, altar second · read like a Berean), would serve as a fridge-magnet summary for participants.
-- **The contested weeks (10–11)** carry the most facilitation risk; if you teach the course more than once, those are the two to debrief and refine after the first run.
-
-If any of those would help, they're quick to produce. Otherwise — the course is complete.
