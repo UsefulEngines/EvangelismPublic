@@ -32,12 +32,3 @@
 - [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the First Enoch narrative.
 
 ---
----
-
-
-<p align="center">
-
-  <img src="./images/TeachTheWord-qr2.png" alt="Project Logo" width="300">
-
-</p>
-
