@@ -1,7 +1,5 @@
 # The Tests of Faith Across Covenant History
 
-Oct 10, 2026 · Phil@UsefulEngines.com
-
 ---
 
 ## 1. The Thesis, and the Vocabulary That Carries It

@@ -1,6 +1,5 @@
 # The Three Types of God's Will in the New Testament
 
-Oct 10, 2026 · Phil@UsefulEngines.com
 
 The New Testament speaks of God's will in three distinct senses, and the distinction is not a later theological invention — it rests on the Greek vocabulary the apostles actually used. Three words carry the weight:
 
