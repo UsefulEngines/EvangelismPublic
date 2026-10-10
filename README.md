@@ -1,5 +1,12 @@
 # Teach the Word...
 
+---
+## Current Course - The Obedience of Faith
+- [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.md)
+- [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.md)
+- [God's Will - 3 Types Observed](2026-Q4/Resources/TheThreeTypesOfGodsWill.md)
+
+---
 
 ## Commentary
 - [How to discern the Truth](2026-Q2/Devotionals/HowToDiscernTheTruth.pdf)
@@ -15,6 +22,7 @@
 - [The Purpose of the Good, and how Sacrifice Reveals It](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Trained to Discern the Difference](2026-Q3/Devotionals/TrainedToTellTheDIfference.pdf)
 
+---
 
 ## Recommended Topics
 - [God of Promises](2025-Q4/) - God's character, the basis for both promise and covenant.
@@ -25,8 +33,7 @@
 - [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
 - [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the First Enoch narrative.
 
-
-
+---
 
 ----------------------------------------------------------------------------------------------------------------
 
