@@ -56,7 +56,7 @@ The manna was a test — a daily one, with a weekly sabbath component built in (
 
 At Sinai: "God has come to **test** you, that the fear of him may be before you so that you do not sin" (Exodus 20:20). Even false prophets are folded into the policy: when a sign-worker arises urging other gods, "the LORD your God will be **testing** you to see if you love him with all your mind and being" (Deuteronomy 13:3). After the conquest generation, the nations left in Canaan are explicitly retained "to **test** Israel, whether or not they would obey the commandments of the LORD" (Judges 2:22; 3:4).
 
-This is the era your thesis describes as "very specific covenantal acts of obedience," and the texts bear that out precisely: manna gathering, sabbath, dietary boundaries, festival attendance, tithes, the ban in holy war (Saul's failure, 1 Samuel 15). Each was a commanded act whose performance or refusal *revealed* the heart. Malachi even records God inviting a test in reverse on the tithe: "**Test** me in this matter, says the LORD who rules over all…" (Malachi 3:10).
+This is the era this thesis describes as "very specific covenantal acts of obedience," and the texts bear that out precisely: manna gathering, sabbath, dietary boundaries, festival attendance, tithes, the ban in holy war (Saul's failure, 1 Samuel 15). Each was a commanded act whose performance or refusal *revealed* the heart. Malachi even records God inviting a test in reverse on the tithe: "**Test** me in this matter, says the LORD who rules over all…" (Malachi 3:10).
 
 ### 2.5 Kings, prophets, and wisdom — the test internalized
 
