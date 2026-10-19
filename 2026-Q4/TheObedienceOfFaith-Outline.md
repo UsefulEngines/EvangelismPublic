@@ -44,8 +44,8 @@
 **Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
 **Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
 
-- [Teaching Guide](01-TrainedToDiscernTheDifference/Week01-TeacherGuide.md)
-- [Presentation](01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference.pptx)
+- [Teaching Guide](02-PurposeOfTheGood/Week02-TeacherGuide.md)
+- [Presentation](02-PurposeOfTheGood/Week02-PurposeOfTheGood.pptx)
 
 ---
 
@@ -67,6 +67,9 @@
 **Discussion:** Which layer does religious activity most easily counterfeit? Why is a costless faith invisible even to the person who holds it?
 **Reading for next week:** 2 Samuel 6:1–11; 1 Chronicles 15:11–15
 
+- [Teaching Guide](01-TrainedToDiscernTheDifference/Week01-TeacherGuide.md)
+- [Presentation](01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference.pptx)
+
 ---
 
 ## Week 3 — Good Intentions Are Not Enough
@@ -82,6 +85,9 @@
 **Anchor texts:** 2 Sam 6:1–11; 1 Chr 15:13; Lev 10:1–3; 1 Sam 15:22; Num 20; Mark 7:6–9
 **Discussion:** Why does "it works" feel like divine approval? Where do we build "new carts" today — sincere improvements on what God prescribed?
 **Reading for next week:** Romans 9:30–10:13
+
+- [Teaching Guide](03-GoodIntentions/Week03-TeacherGuide.md)
+- [Presentation](03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pptx)
 
 ---
 
@@ -101,6 +107,9 @@
 **Discussion:** How do pride and despair both grow from the same root of self-righteousness? What does daily dependence on given-righteousness look like practically?
 **Reading for next week:** Acts 17:10–12; 1 Corinthians 2:6–16
 
+- [Teaching Guide](04-TwoRighteousnesses/Week04-TeacherGuide.md)
+- [Presentation](04-TwoRighteousnesses/Week04-TwoRighteousnesses.pptx)
+
 ---
 
 ## Week 5 — The Berean Method: Discerning the Sacred and the True
@@ -117,6 +126,8 @@
 **Discussion:** Which half of the Berean posture is harder for you — receiving eagerly or examining daily? What was the last teaching you tested rather than absorbed?
 **Reading for next week:** Genesis 3:1–13; 1 Corinthians 13
 
+- [Teaching Guide](05-TheBereanMethod/Week05-TeacherGuide.md)
+- [Presentation](05-TheBereanMethod/Week05-TheBereanMethod.pptx)
 ---
 
 ## Week 6 — Love, Compassion, and Truth
@@ -132,6 +143,9 @@
 **Anchor texts:** Gen 3:1–13; 1 Cor 13:4–7; Heb 4:15; Rom 5:12; Eph 4:15
 **Discussion:** Where is the line between compassion and enabling? How can a class member speak truth without weaponizing it — and love without surrendering it?
 **Reading for next week:** Deuteronomy 8:1–10; Genesis 22:1–2
+
+- [Teaching Guide](06-LoveCompassionTruth/Week06-TeacherGuide.md)
+- [Presentation](06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pptx)
 
 ---
 
@@ -151,6 +165,9 @@
 **Discussion:** Why does God test people He already knows completely? What did the Hezekiah case reveal that forty faithful years had not?
 **Reading for next week:** Acts 2:36–41; 1 Corinthians 11:23–29
 
+- [Teaching Guide](07-FaithTests/Week07-TeacherGuide.md)
+- [Presentation](07-FaithTests/FaithTestsAcrossCovenants.pptx)
+
 ---
 
 ## Week 8 — The Church's Tests: Obeying the Gospel and the Table
@@ -168,6 +185,9 @@
 **Discussion:** Which category of test does our congregation talk about least? What does weekly self-examination at the table actually involve?
 **Reading for next week:** Romans 12:1–2; Malachi 1:6–14
 
+- [Teaching Guide](08-TheChurchsTests/Week08-TeacherGuide.md)
+- [Presentation](08-TheChurchsTests/Week08-TheChurchsTests.pptx)
+
 ---
 
 ## Week 9 — The Altar Today: Living Sacrifice, Royal Priesthood
@@ -184,6 +204,9 @@
 **Anchor texts:** Rom 12:1–2; Heb 10:5–10; 13:15–16; 1 Pet 2:5, 9; Mal 1:6–14; 2 Sam 24:24
 **Discussion:** If your time this week were an animal brought to Malachi's altar, what condition would it be in? What are the "first minutes" of your day currently given to?
 **Reading for next week:** 1 Corinthians 14:26–40; Jude 3
+
+- [Teaching Guide](09-TheAlterToday/Week09-TeacherGuide.md)
+- [Presentation](09-TheAlterToday/Week09-TheAlterToday.pptx)
 
 ---
 
@@ -206,6 +229,9 @@
 **Discussion:** Why is "God is clearly using them" not, by itself, a warrant for office? Where do we feel the pull of results-based validation today?
 **Reading for next week:** 1 Timothy 2:1–15; 1 Corinthians 11:2–16
 
+- [Teaching Guide](10-ApostolicAppointment/Week10-TeacherGuide.md)
+- [Presentation](10-ApostolicApointment/Week10-ApostolicAppointment.pptx)
+
 ---
 
 ## Week 11 — God's Created Order in the Assembly
@@ -222,6 +248,9 @@
 **Anchor texts:** Gen 1:26–2:25; 1 Tim 2:11–15; 3:2, 15; 1 Cor 11:2–16; 14:29–40; Titus 2:3–5; Rom 16:1–16
 **Discussion:** How does the "let a woman learn" command reframe the passage? Why does grounding matter — what's the difference between a rule from culture and a pattern from creation? Where must we be careful to claim only what the text claims?
 **Reading for next week:** Matthew 28:16–20; Hebrews 5:11–6:3
+
+- [Teaching Guide](11-GodsCreatedOrder/Week11-TeacherGuide.md)
+- [Presentation](11-GodsCreatedOrder/Week11-GodsCreatedOrder.pptx)
 
 ---
 
@@ -241,6 +270,9 @@
 **Anchor texts:** Deut 6:6–9; Gen 18:19; Matt 28:18–20; Heb 5:12; 10:5–10; 2 Tim 1:5
 **Discussion:** Who taught the faith to you, and what did it cost them? Whom will you teach — and what is the first step this month?
 **Reading:** none assigned — the course's standing assignment continues: one chapter daily, eager and examining.
+
+- [Teaching Guide](12-HouseholdsAndTeachers/Week12-TeacherGuide.md)
+- [Presentation](12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pptx)
 
 ---
 
