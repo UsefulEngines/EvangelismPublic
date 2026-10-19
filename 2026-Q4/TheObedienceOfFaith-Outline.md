@@ -44,6 +44,9 @@
 **Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
 **Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
 
+- [Teaching Guide](01-TrainedToDiscernTheDifference/Week01-TeacherGuide.md)
+- [Presentation](01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference.pptx)
+
 ---
 
 ## Week 2 — Sacrifice Reveals the Good: The Four Layers
