@@ -26,7 +26,7 @@
 
 
 ## Recommended Topics
-- 1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
+- [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
 - [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - May Elders delegate teaching authority?
 - [God of Promises](2025-Q4/Promises_of_God_Outline.pdf) - God's character, the basis for both promise and covenant.
 - [God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
