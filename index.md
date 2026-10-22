@@ -6,7 +6,6 @@ layout: default
 
 ## Browse the repository by published Year/Quarter
 
-- [2015–2024](https://github.com/usefulengines/EvangelismPublic/tree/main/2015-2024)
 - [2025 Q3](https://github.com/usefulengines/EvangelismPublic/tree/main/2025-Q3)
 - [2025 Q4](https://github.com/usefulengines/EvangelismPublic/tree/main/2025-Q4)
 - [2026 Q1](https://github.com/usefulengines/EvangelismPublic/tree/main/2026-Q1)

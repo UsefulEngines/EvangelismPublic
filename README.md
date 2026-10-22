@@ -35,6 +35,5 @@
 - [God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
 - [The Gospel](2026-Q2/Romans-2026-Q2.pdf) - Paul the Apostle's seminal message to the church in Rome.
 - [Church Unity](2025-Q3/Unity-Outline.pdf) - A call to Reconciliation and the Obedience of Faith.
-- [1 Enoch Synopsis](2026-Q1/Resources/Synopsis1stEnoch.pdf) - A summary of the First Enoch narrative.
 
 ---
