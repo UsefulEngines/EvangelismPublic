@@ -3,7 +3,7 @@
 ## Current Course - The Obedience of Faith
 
 - [Course Summary](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
-- [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.pdf)
+- [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.md)
 - [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
 - [God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
 - [The Good - Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
