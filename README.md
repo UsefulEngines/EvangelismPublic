@@ -4,9 +4,9 @@
 
 - [Course Summary](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.pdf)
-- [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
-- [God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
-- [The Good - Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
+- [Article - Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
+- [Article - God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
+- [Article - The Good - Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
 - [Week 1 - Trained to Discern the Difference](2026-Q4/01-TrainedToDiscernTheDifference/TrainedToDiscernTheDIfference.pdf)
 - [Week 2 - The Purpose of The Good](2026-Q4/02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
 - [Week 3 - Good Intentions are Not Enough](2026-Q4/03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
