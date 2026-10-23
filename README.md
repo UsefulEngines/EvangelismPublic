@@ -1,9 +1,8 @@
 # Teach the Word...
 
-
 ## Current Course - The Obedience of Faith
 
-- [Course Summary Abstract](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
+- [Course Summary](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.pdf)
 - [Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
 - [God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
@@ -26,7 +25,6 @@
 - [The Rise of Man-Made Systems](2026-Q3/Devotionals/TheRiseOfManmadeSystems.pdf)
 - [The Purpose of the Good, and how Sacrifice Reveals It](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Trained to Discern the Difference](2026-Q3/Devotionals/TrainedToTellTheDIfference.pdf)
-
 
 ## Recommended Topics
 
