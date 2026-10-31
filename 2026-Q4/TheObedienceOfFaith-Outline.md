@@ -132,7 +132,7 @@
 **Discussion:** Which half of the Berean posture is harder for you: receiving eagerly or examining daily? What was the last teaching you tested rather than absorbed?
 **Reading for next week:** Genesis 3:1–13; 1 Corinthians 13
 
-[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/1c42f1a07802aa490275fc1f46566d18c83e88c9/2026-Q4/05-TheBereanMethod/Week05-TheBereanMethod.pdf)
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/1c42f1a07802aa490275fc1f46566d18c83e88c9/2026-Q4/05-TheBereanMethod/Week05-TheBereanMethod.pdf)
 
 - [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/05-TheBereanMethod)
 
