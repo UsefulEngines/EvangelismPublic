@@ -7,9 +7,18 @@
 - [Article - Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
 - [Article - God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
 - [Article - The Good - Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
-- [Week 1 - Trained to Discern the Difference](2026-Q4/01-TrainedToDiscernTheDifference/TrainedToDiscernTheDIfference.pdf)
-- [Week 2 - The Purpose of The Good](2026-Q4/02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
-- [Week 3 - Good Intentions are Not Enough](2026-Q4/03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
+- [Week 1 - Trained to Discern the Difference](2026-Q4/01-TrainedToDiscernTheDifference/Week01-TeacherGuide.pdf)
+- [Week 2 - The Purpose of The Good](2026-Q4/02-PurposeOfTheGood/Week02-TeacherGuide.pdf)
+- [Week 3 - Good Intentions are Not Enough](2026-Q4/03-GoodIntentions/Week03-TeacherGuide.pdf)
+- [Week 4 - Two Righteousnesses, and How God Is Known](2026-Q4/04-TwoRighteousnesses/Week04-TeacherGuide.pdf)
+- [Week 5 - The Berean Method: Discerning the Sacred and the True](2026-Q4/05-TheBereanMethod/Week05-TeacherGuide.pdf)
+- [Week 6 - Love, Compassion, and Truth](2026-Q4/06-LoveCompassionTruth/Week06-TeacherGuide.pdf)
+- [Week 7 - Faith Tests Across the Covenants](2026-Q4/07-FaithTests/Week07-TeacherGuide.pdf)
+- [Week 8 - The Church's Tests: Obeying the Gospel and the Table](2026-Q4/08-TheChurchsTests/Week08-TeacherGuide.pdf)
+- [Week 9 - The Altar Today: Living Sacrifice, Royal Priesthood](2026-Q4/09-TheAlterToday/Week09-TeacherGuide.pdf)
+- [Week 10 - Apostolic Appointment: Where Doctrinal Authority Comes From](2026-Q4/10-ApostolicAppointment/Week10-TeacherGuide.pdf)
+- [Week 11 - God's Created Order in the Assembly](2026-Q4/11-GodsCreatedOrder/Week11-TeacherGuide.pdf)
+- [Week 12 - Households and Teachers: The Obedience of Faith Completed](2026-Q4/12-HouseholdsAndTeachers/Week12-TeacherGuide.pdf)
 
 ## Commentary
 
