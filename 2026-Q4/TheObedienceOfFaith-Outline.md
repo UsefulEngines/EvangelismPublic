@@ -29,27 +29,8 @@
 
 # UNIT I — FOUNDATIONS
 
-## Week 1 — The Purpose of the Good
 
-**Aim:** Establish that goodness is God's own character, its purpose is union with His people, and the course's controlling verse is Hebrews 5:14.
-
-**Lecture flow (45 min)**
-- (0–10) "Why do you call me good?" — Mark 10:17–18. Goodness has a source, not just a definition. Anything called good is good by participation in Him.
-- (10–20) The purpose of the Good is God's purpose: image and likeness (Gen 1:26–27), conformity to the Son (Rom 8:29). Union, not admiration.
-- (20–32) The problem: devotion is invisible — even to its owner. Introduce the course thesis: Hebrews 5:12–14. "By this time you ought to be teachers"; maturity = perceptions **trained by practice** to discern good and evil.
-- (32–42) Course overview: the road from the Good, through sacrifice and testing, to trained discernment and commission. Grace stated up front: mercy first, altar second (Rom 12:1 "by the mercies of God").
-- (42–45) Set the reading rhythm: one passage per week, read like a Berean.
-
-**Anchor texts:** Mark 10:17–18; Gen 1:26–27; Rom 8:29; Heb 5:12–14
-**Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
-**Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
-
-- [Teaching Guide](02-PurposeOfTheGood/Week02-TeacherGuide.md)
-- [Presentation](02-PurposeOfTheGood/Week02-PurposeOfTheGood.pptx)
-
----
-
-## Week 2 — Sacrifice Reveals the Good: The Four Layers
+## Week 1 — Sacrifice Reveals the Good: The Four Layers
 
 **Aim:** Teach the four-layer framework — Religion, Worship, Sacrifice, Obedience of Faith — and show why sacrifice is what makes worship visible.
 
@@ -72,6 +53,26 @@
 
 ---
 
+## Week 2 — The Purpose of the Good
+
+**Aim:** Establish that goodness is God's own character, its purpose is union with His people, and the course's controlling verse is Hebrews 5:14.
+
+**Lecture flow (45 min)**
+- (0–10) "Why do you call me good?" — Mark 10:17–18. Goodness has a source, not just a definition. Anything called good is good by participation in Him.
+- (10–20) The purpose of the Good is God's purpose: image and likeness (Gen 1:26–27), conformity to the Son (Rom 8:29). Union, not admiration.
+- (20–32) The problem: devotion is invisible — even to its owner. Introduce the course thesis: Hebrews 5:12–14. "By this time you ought to be teachers"; maturity = perceptions **trained by practice** to discern good and evil.
+- (32–42) Course overview: the road from the Good, through sacrifice and testing, to trained discernment and commission. Grace stated up front: mercy first, altar second (Rom 12:1 "by the mercies of God").
+- (42–45) Set the reading rhythm: one passage per week, read like a Berean.
+
+**Anchor texts:** Mark 10:17–18; Gen 1:26–27; Rom 8:29; Heb 5:12–14
+**Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
+**Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
+
+- [Teaching Guide](02-PurposeOfTheGood/Week02-TeacherGuide.md)
+- [Presentation](02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
+
+---
+
 ## Week 3 — Good Intentions Are Not Enough
 
 **Aim:** Show from Uzzah and his companions across Scripture that sincerity cannot substitute for God's revealed will; the question of worship is "Has God spoken?"
@@ -87,7 +88,7 @@
 **Reading for next week:** Romans 9:30–10:13
 
 - [Teaching Guide](03-GoodIntentions/Week03-TeacherGuide.md)
-- [Presentation](03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pptx)
+- [Presentation](03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
 
 ---
 
@@ -108,7 +109,7 @@
 **Reading for next week:** Acts 17:10–12; 1 Corinthians 2:6–16
 
 - [Teaching Guide](04-TwoRighteousnesses/Week04-TeacherGuide.md)
-- [Presentation](04-TwoRighteousnesses/Week04-TwoRighteousnesses.pptx)
+- [Presentation](04-TwoRighteousnesses/Week04-TwoRighteousnesses.pdf)
 
 ---
 
@@ -127,7 +128,7 @@
 **Reading for next week:** Genesis 3:1–13; 1 Corinthians 13
 
 - [Teaching Guide](05-TheBereanMethod/Week05-TeacherGuide.md)
-- [Presentation](05-TheBereanMethod/Week05-TheBereanMethod.pptx)
+- [Presentation](05-TheBereanMethod/Week05-TheBereanMethod.pdf)
 ---
 
 ## Week 6 — Love, Compassion, and Truth
@@ -145,7 +146,7 @@
 **Reading for next week:** Deuteronomy 8:1–10; Genesis 22:1–2
 
 - [Teaching Guide](06-LoveCompassionTruth/Week06-TeacherGuide.md)
-- [Presentation](06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pptx)
+- [Presentation](06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pdf)
 
 ---
 
@@ -166,7 +167,7 @@
 **Reading for next week:** Acts 2:36–41; 1 Corinthians 11:23–29
 
 - [Teaching Guide](07-FaithTests/Week07-TeacherGuide.md)
-- [Presentation](07-FaithTests/FaithTestsAcrossCovenants.pptx)
+- [Presentation](07-FaithTests/FaithTestsAcrossCovenants.pdf)
 
 ---
 
@@ -186,7 +187,7 @@
 **Reading for next week:** Romans 12:1–2; Malachi 1:6–14
 
 - [Teaching Guide](08-TheChurchsTests/Week08-TeacherGuide.md)
-- [Presentation](08-TheChurchsTests/Week08-TheChurchsTests.pptx)
+- [Presentation](08-TheChurchsTests/Week08-TheChurchsTests.pdf)
 
 ---
 
@@ -206,7 +207,7 @@
 **Reading for next week:** 1 Corinthians 14:26–40; Jude 3
 
 - [Teaching Guide](09-TheAlterToday/Week09-TeacherGuide.md)
-- [Presentation](09-TheAlterToday/Week09-TheAlterToday.pptx)
+- [Presentation](09-TheAlterToday/Week09-TheAlterToday.pdf)
 
 ---
 
@@ -230,7 +231,7 @@
 **Reading for next week:** 1 Timothy 2:1–15; 1 Corinthians 11:2–16
 
 - [Teaching Guide](10-ApostolicAppointment/Week10-TeacherGuide.md)
-- [Presentation](10-ApostolicApointment/Week10-ApostolicAppointment.pptx)
+- [Presentation](10-ApostolicApointment/Week10-ApostolicAppointment.pdf)
 
 ---
 
@@ -250,7 +251,7 @@
 **Reading for next week:** Matthew 28:16–20; Hebrews 5:11–6:3
 
 - [Teaching Guide](11-GodsCreatedOrder/Week11-TeacherGuide.md)
-- [Presentation](11-GodsCreatedOrder/Week11-GodsCreatedOrder.pptx)
+- [Presentation](11-GodsCreatedOrder/Week11-GodsCreatedOrder.pdf)
 
 ---
 
@@ -272,7 +273,7 @@
 **Reading:** none assigned — the course's standing assignment continues: one chapter daily, eager and examining.
 
 - [Teaching Guide](12-HouseholdsAndTeachers/Week12-TeacherGuide.md)
-- [Presentation](12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pptx)
+- [Presentation](12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pdf)
 
 ---
 

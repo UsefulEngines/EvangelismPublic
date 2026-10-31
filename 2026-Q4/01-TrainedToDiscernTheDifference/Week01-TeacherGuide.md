@@ -1,12 +1,15 @@
-# Week 2 Teacher Guide — Sacrifice Reveals the Good: The Four Layers
+# Week 1 Teacher Guide — Sacrifice Reveals the Good: The Four Layers
 
-*The Obedience of Faith, Week 2 of 12. Companion to `Week02-SacrificeRevealsTheGood.pptx` (7 slides, 25 click-stops). Scripture from the NET Bible.*
+*The Obedience of Faith, Week 1 of 12. Companion to `Week01-TrainedToDiscernTheDifference.pptx`. Scripture from the NET Bible.*
 
 **Aim:** Teach the four-layer framework — Religion, Worship, Sacrifice, Obedience of Faith — and show why sacrifice is what makes worship visible.
 
 **What this week must accomplish (and nothing more):** the class leaves able to say the four words *in order* and state each layer's one-word function — form, disposition, cost, pattern. That vocabulary is load-bearing for the next ten weeks; Saul, Uzzah, Malachi, the church's tests, and the living sacrifice all get named by these layers later. If the class memorizes the stack, the week succeeded. Everything else is reinforcement.
 
 **The bridge from Week 1:** last week ended on a deliberately unresolved question — *how does the invisible become visible, and how does a person learn to see it?* This week answers the first half (sacrifice makes it visible). Weeks 5 and 9 answer the second half (the Berean practice trains the seeing). Say this out loud at the recap; a course that visibly keeps its promises earns trust.
+
+- [Teaching Guide](Week01-TeacherGuide.md)
+- [Presentation](TrainedToDiscernTheDifference-pptx.pdf)
 
 ---
 
