@@ -4,9 +4,6 @@
 
 - [Course Summary](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Course Outline](2026-Q4/TheObedienceOfFaith-Outline.pdf)
-- [Article - Faith Tests Across Covenants](2026-Q4/Resources/FaithTestsAcrossCovenants.pdf)
-- [Article - God's Will - 3 Types Observed](2026-Q4/Resources/GodsWill-3Types.pdf)
-- [Article - The Good - Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
 - [Week 1 - Trained to Discern the Difference](2026-Q4/01-TrainedToDiscernTheDifference/Week01-TeacherGuide.pdf)
 - [Week 2 - The Purpose of The Good](2026-Q4/02-PurposeOfTheGood/Week02-TeacherGuide.pdf)
 - [Week 3 - Good Intentions are Not Enough](2026-Q4/03-GoodIntentions/Week03-TeacherGuide.pdf)
@@ -19,6 +16,9 @@
 - [Week 10 - Apostolic Appointment: Where Doctrinal Authority Comes From](2026-Q4/10-ApostolicAppointment/Week10-TeacherGuide.pdf)
 - [Week 11 - God's Created Order in the Assembly](2026-Q4/11-GodsCreatedOrder/Week11-TeacherGuide.pdf)
 - [Week 12 - Households and Teachers: The Obedience of Faith Completed](2026-Q4/12-HouseholdsAndTeachers/Week12-TeacherGuide.pdf)
+- [Resource - Faith Tests Across Covenants](2026-Q4/Resources/TheTestsOfFaithAcrossCovenantHistory.pdf)
+- [Resource - The Three Types of God's Will](2026-Q4/Resources/TheThreeTypesOfGodsWill.pdf)
+- [Resource - The Good, Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
 
 ## Commentary
 
@@ -37,7 +37,7 @@
 ## Recommended Topics
 
 - [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
-- [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - May Elders delegate teaching authority?
+- [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - How do Elders delegate teaching authority?
 - [God of Promises](2025-Q4/Promises_of_God_Outline.pdf) - God's character, the basis for both promise and covenant.
 - [God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
 - [The Gospel](2026-Q2/Romans-2026-Q2.pdf) - Paul the Apostle's seminal message to the church in Rome.
