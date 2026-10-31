@@ -48,6 +48,8 @@
 **Discussion:** Which layer does religious activity most easily counterfeit? Why is a costless faith invisible even to the person who holds it?
 **Reading for next week:** 2 Samuel 6:1–11; 1 Chronicles 15:11–15
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference-ppt.pdf)
+
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/01-TrainedToDiscernTheDifference)
 
 
@@ -68,6 +70,8 @@
 **Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
 **Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
+
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/02-PurposeOfTheGood)
 
 ---
@@ -85,6 +89,8 @@
 **Anchor texts:** 2 Sam 6:1–11; 1 Chr 15:13; Lev 10:1–3; 1 Sam 15:22; Num 20; Mark 7:6–9
 **Discussion:** Why does "it works" feel like divine approval? Where do we build "new carts" today: sincere improvements on what God prescribed?
 **Reading for next week:** Romans 9:30–10:13
+
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
 
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/03-GoodIntentions)
 
@@ -106,6 +112,8 @@
 **Discussion:** How do pride and despair both grow from the same root of self-righteousness? What does daily dependence on given-righteousness look like practically?
 **Reading for next week:** Acts 17:10–12; 1 Corinthians 2:6–16
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/04-TwoRighteousnesses/Week04-TwoRighteousnesses.pdf)
+
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/04-TwoRighteousnesses)
 
 ---
@@ -124,6 +132,8 @@
 **Discussion:** Which half of the Berean posture is harder for you: receiving eagerly or examining daily? What was the last teaching you tested rather than absorbed?
 **Reading for next week:** Genesis 3:1–13; 1 Corinthians 13
 
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/1c42f1a07802aa490275fc1f46566d18c83e88c9/2026-Q4/05-TheBereanMethod/Week05-TheBereanMethod.pdf)
+
 - [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/05-TheBereanMethod)
 
 ---
@@ -141,6 +151,8 @@
 **Anchor texts:** Gen 3:1–13; 1 Cor 13:4–7; Heb 4:15; Rom 5:12; Eph 4:15
 **Discussion:** Where is the line between compassion and enabling? How can a class member speak truth without weaponizing it, and love without surrendering it?
 **Reading for next week:** Deuteronomy 8:1–10; Genesis 22:1–2
+
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pdf)
 
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/06-LoveCompassionTruth)
 
@@ -162,6 +174,8 @@
 **Discussion:** Why does God test people He already knows completely? What did the Hezekiah case reveal that forty faithful years had not?
 **Reading for next week:** Acts 2:36–41; 1 Corinthians 11:23–29
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/07-FaithTests/Week07-FaithTestsAcrossCovenants.pdf)
+
 - [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/07-FaithTests)
 
 
@@ -182,6 +196,8 @@
 **Discussion:** Which category of test does our congregation talk about least? What does weekly self-examination at the table actually involve?
 **Reading for next week:** Romans 12:1–2; Malachi 1:6–14
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/08-TheChurchsTests/Week08-TheChurchsTests.pdf)
+
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/08-TheChurchsTests)
 
 ---
@@ -200,6 +216,8 @@
 **Anchor texts:** Rom 12:1–2; Heb 10:5–10; 13:15–16; 1 Pet 2:5, 9; Mal 1:6–14; 2 Sam 24:24
 **Discussion:** If your time this week were an animal brought to Malachi's altar, what condition would it be in? What are the "first minutes" of your day currently given to?
 **Reading for next week:** 1 Corinthians 14:26–40; Jude 3
+
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/09-TheAlterToday/Week09-TheAltarToday.pdf)
 
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/09-TheAlterToday)
 
@@ -224,6 +242,8 @@
 **Discussion:** Why is "God is clearly using them" not, by itself, a warrant for office? Where do we feel the pull of results-based validation today?
 **Reading for next week:** 1 Timothy 2:1–15; 1 Corinthians 11:2–16
 
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/10-ApostolicAppointment/Week10-ApostolicAppointment.pdf)
+
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/10-ApostolicAppointment)
 
 ---
@@ -242,6 +262,8 @@
 **Anchor texts:** Gen 1:26–2:25; 1 Tim 2:11–15; 3:2, 15; 1 Cor 11:2–16; 14:29–40; Titus 2:3–5; Rom 16:1–16
 **Discussion:** How does the "let a woman learn" command reframe the passage? Why does grounding matter: what's the difference between a rule from culture and a pattern from creation? Where must we be careful to claim only what the text claims?
 **Reading for next week:** Matthew 28:16–20; Hebrews 5:11–6:3
+
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/11-GodsCreatedOrder/Week11-GodsCreatedOrder.pdf)
 
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/11-GodsCreatedOrder)
 
@@ -263,6 +285,8 @@
 **Anchor texts:** Deut 6:6–9; Gen 18:19; Matt 28:18–20; Heb 5:12; 10:5–10; 2 Tim 1:5
 **Discussion:** Who taught the faith to you, and what did it cost them? Whom will you teach, and what is the first step this month?
 **Reading:** none assigned: the course's standing assignment continues: one chapter daily, eager and examining.
+
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pdf)
 
 - [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/12-HouseholdsAndTeachers)
 
