@@ -1,6 +1,8 @@
 # Week 7 Teacher Guide: Faith Tests Across the Covenants
 
-*The Obedience of Faith, Week 7 of 12. Opens Unit III (Testing). Companion to `Week07-FaithTestsAcrossCovenants.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 7 of 12. Opens Unit III (Testing). 
+Companion to `Week07-FaithTestsAcrossCovenants.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Establish the pattern: every covenant era carries tests of faith, commanded or providential occasions where trust in God's word must become costly action.
 
@@ -9,6 +11,8 @@
 **Read this first: the guardrail warning.** You have spent Week 4 convincing the class that righteousness is a gift, not a wage. Now you open a three-week unit called "Testing." For some, the word alone will reactivate every works-righteousness reflex they've ever had (*so I do have to prove myself after all*). Head this off in the first sixty seconds and reinforce it at the end: **every test in this lecture comes after the rescue, never before it.** Israel was redeemed from Egypt and *then* tested in the wilderness. The tests prove and refine a faith that already rests on grace; they never purchase standing. Grace saves; testing proves. Say it early, say it late, and the whole unit stays safe.
 
 **Where this sits in the arc:** Units I–II built the vocabulary (the Good, the four layers, sincerity's failure) and the method (Berean discernment, truth-anchored love). Unit III now shows the *mechanism God actually uses* to bring faith from invisible to visible (testing), and traces it from Eden to Christ to the church (next week). This week is the survey; Weeks 8–9 land it on us.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/07-FaithTests/Week07-FaithTestsAcrossCovenants.pdf)
 
 ---
 

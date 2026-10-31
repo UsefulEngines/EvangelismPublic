@@ -10,6 +10,8 @@
 
 **Where this sits in the arc:** everything converges here. Week 1 opened on "Why do you call me good?" and planted Hebrews 5:12 as a rebuke. Week 12 closes on "teaching them to obey" and turns that same Hebrews 5:12 into a commission. The four-layer stack from Week 2 returns, filled and perfect, in Christ. The deposit-and-handoff of Week 10 comes home to the kitchen table. The blemished-lamb of Week 9 is aimed at family time. The grace refrain (mercy first, altar second) gets its final repetition. Teach this week with the whole course in view; the callbacks *are* the content.
 
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pdf)
+
 ---
 
 ## Segment 1: The Household: The First Congregation (0:00–12:00 · Slide 2)

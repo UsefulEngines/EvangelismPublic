@@ -1,6 +1,8 @@
 # Week 8 Teacher Guide: The Church's Tests: Obeying the Gospel and the Table
 
-*The Obedience of Faith, Week 8 of 12. Unit III (Testing). Companion to `Week08-TheChurchsTests.pptx` (7 slides, 23 click-stops). Scripture from the NET Bible.*
+*The Obedience of Faith, Week 8 of 12. Unit III (Testing). 
+Companion to `Week08-TheChurchsTests.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Answer the course's sharpest question: what specific obedience-of-faith tests does the New Covenant set for the church?
 
@@ -9,6 +11,8 @@
 **Keep the guardrail lit.** This is the second week of a unit called "Testing," and the works-righteousness reflex is still live, especially now that we're naming *specific commanded acts* (confession, baptism, self-examination). Reinforce the Week 4/7 frame at least twice: **these tests come to the already-rescued; they prove and reveal a faith saved by grace, they do not purchase standing.** The bridge logic on slide 2 actually helps here: a command is where trust *becomes action*, and it's addressed to a person God is already saving. Say it plainly whenever a face tightens.
 
 **Where this sits in the arc:** Week 7 surveyed the covenant tests from Eden to Christ and ended on "salvation to all who obey him" (Heb 5:9). This week takes that "obey him" and asks: concretely, what does the New Covenant ask? Week 9 then narrows further to the living sacrifice (Rom 12): the reading assignment already points there.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/08-TheChurchsTests/Week08-TheChurchsTests.pdf)
 
 ---
 

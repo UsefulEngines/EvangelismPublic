@@ -1,6 +1,8 @@
 # Week 6 Teacher Guide: Love, Compassion, and Truth
 
-*The Obedience of Faith, Week 6 of 12. Closes Unit II (Discernment). Companion to `Week06-LoveCompassionAndTruth.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 6 of 12. Closes Unit II (Discernment). 
+Companion to `Week06-LoveCompassionAndTruth.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Show that biblical love is never separated from truth, and that compassion detached from God's word becomes a tool of moral inversion, beginning in Eden.
 
@@ -9,6 +11,8 @@
 **Read this before anything else: the tone warning.** This is the single most easily-mispreached lesson in the twelve weeks, and the failure mode is specific: it gets heard as "the teacher is against compassion," or worse, "the teacher is against *empathy*, which means he's cold." In the current cultural moment, "empathy" is a sacred word, and a lesson that appears to criticize it will close hearts before you finish the sentence. You are not against compassion; Scripture *commands* it, repeatedly, and you should say so out loud in the first minute. You are against compassion *cut loose from truth.* Every hard edge in this lesson must be delivered from evident warmth, or it will wound the very people it's meant to help. When in doubt, be gentler. Lead warm, stay warm, close warm.
 
 **Where this sits in the arc:** Week 5 taught discernment as a discipline (soft heart, hard questions). Week 6 applies it to the hardest case: the moment when a *good* thing, compassion, is used to override God's word, exactly as a good thing (wisdom, being like God) was used in Eden. This closes Unit II and hands off to Unit III (Testing), where the reading assignment already points.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pdf)
 
 ---
 

@@ -1,6 +1,8 @@
 # Week 9 Teacher Guide: The Altar Today: Living Sacrifice, Royal Priesthood
 
-*The Obedience of Faith, Week 9 of 12. Closes Unit III (Testing). Companion to `Week09-TheAltarToday.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 9 of 12. Closes Unit III (Testing). 
+Companion to `Week09-TheAltarToday.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Answer "do Christians offer sacrifices?": the atonement is finished once for all, and precisely *because* it is finished, the worshiper now goes on the altar alive, body and mind.
 
@@ -11,6 +13,8 @@
 **Two guardrails to keep lit: one old, one new:**
 1. *The grace guardrail* (Weeks 4, 7, 8): this is a "sacrifice" week, so the works-righteousness reflex is live. The banner "mercy first, altar second" is on slide 5; the once-for-all guard is the *entire* first segment. Keep both loud.
 2. *The atonement guardrail* (new this week, and the more important one): a lesson calling believers to "offer sacrifices" can be misheard as adding to the cross, as if Christ's work were incomplete and we finish it. Slide 2 exists precisely to slam that door before the turn. Christ's atoning sacrifice is *finished, once for all, unrepeatable.* Nothing we offer atones for anything. Our sacrifices are *response and worship*, never *propitiation*. Say this explicitly; a Catholic-background or a scrupulous member will especially need to hear it.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/09-TheAlterToday/Week09-TheAltarToday.pdf)
 
 ---
 

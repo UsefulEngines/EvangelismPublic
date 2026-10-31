@@ -1,6 +1,8 @@
 # Week 11 Teacher Guide: God's Created Order in the Assembly
 
-*The Obedience of Faith, Week 11 of 12. Closes Unit IV (God's House). Companion to `Week11-GodsCreatedOrder.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 11 of 12. Closes Unit IV (God's House). 
+Companion to `Week11-GodsCreatedOrder.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Present the narrow, textually precise position on roles in the gathered church: the restriction concerns authoritative doctrinal teaching over men and the office attached to it, grounded in creation rather than culture, *alongside* the full breadth of ministry Scripture shows women exercising.
 
@@ -15,6 +17,8 @@
 5. **Invoke Week 5's permission again:** test the teacher, hard. A teacher who welcomes examination on *this* topic has already won most of the room's trust.
 
 **A note on the position taught.** The deck argues the *narrow* complementarian reading (the one the user's own revised exegesis landed on): the restriction is specifically about the governing doctrinal-teaching office over the assembly, not about women's speech, gifting, or ministry generally. If your own conviction differs, the deck is still usable; the "what is not restricted," the honest-ranking, and the "claim only what the text claims" segments are common ground across the spectrum, and the fairness ethic is the real curriculum here.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/11-GodsCreatedOrder/Week11-GodsCreatedOrder.pdf)
 
 ---
 

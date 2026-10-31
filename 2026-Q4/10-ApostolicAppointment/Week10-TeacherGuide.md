@@ -1,6 +1,8 @@
 # Week 10 Teacher Guide: Apostolic Appointment: Where Doctrinal Authority Comes From
 
-*The Obedience of Faith, Week 10 of 12. Opens Unit IV (God's House). Companion to `Week10-ApostolicAppointment.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 10 of 12. Opens Unit IV (God's House). 
+Companion to `Week10-ApostolicAppointment.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Establish that teaching authority in the church is *conferred* through the apostolic deposit, not *generated* by gifting, sincerity, results, or cultural trajectory.
 
@@ -13,6 +15,8 @@
 3. **Distinguish structure from people.** You are analyzing where authority is *located*, not smearing the sincerity or godliness of anyone who located it differently. Many in the historical survey were genuine, fruitful believers. Say so.
 
 **Where this sits in the arc:** Unit III (Testing) just closed. Unit IV asks how God's house is ordered. This week is the *foundational principle* (authority's source); next week is the *application* (roles in the assembly). Week 12 then moves to the household and commission. The course's whole method ("read like a Berean, test the teacher") was in a real sense building toward the class's ability to handle *these two weeks* charitably.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/10-ApostolicAppointment/Week10-ApostolicAppointment.pdf)
 
 ---
 
