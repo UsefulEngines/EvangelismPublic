@@ -176,7 +176,7 @@
 
 - [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/07-FaithTests/Week07-FaithTestsAcrossCovenants.pdf)
 
-- [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/07-FaithTests)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/07-FaithTests)
 
 
 ---
