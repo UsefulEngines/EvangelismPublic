@@ -48,8 +48,8 @@
 **Discussion:** Which layer does religious activity most easily counterfeit? Why is a costless faith invisible even to the person who holds it?
 **Reading for next week:** 2 Samuel 6:1–11; 1 Chronicles 15:11–15
 
-- [Teaching Guide](01-TrainedToDiscernTheDifference/Week01-TeacherGuide.pdf)
-- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference-ppt.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/01-TrainedToDiscernTheDifference)
+
 
 ---
 
@@ -68,8 +68,7 @@
 **Discussion (10 min):** When you say something is "good," what standard are you actually using? What would change if goodness were a Person's character rather than a measurement?
 **Reading for next week:** Genesis 22:1–19; Hebrews 11:17–19
 
-- [Teaching Guide](02-PurposeOfTheGood/Week02-TeacherGuide.md)
-- [Presentation](02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/02-PurposeOfTheGood)
 
 ---
 
@@ -87,8 +86,7 @@
 **Discussion:** Why does "it works" feel like divine approval? Where do we build "new carts" today: sincere improvements on what God prescribed?
 **Reading for next week:** Romans 9:30–10:13
 
-- [Teaching Guide](03-GoodIntentions/Week03-TeacherGuide.md)
-- [Presentation](03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/03-GoodIntentions)
 
 ---
 
@@ -108,8 +106,7 @@
 **Discussion:** How do pride and despair both grow from the same root of self-righteousness? What does daily dependence on given-righteousness look like practically?
 **Reading for next week:** Acts 17:10–12; 1 Corinthians 2:6–16
 
-- [Teaching Guide](04-TwoRighteousnesses/Week04-TeacherGuide.md)
-- [Presentation](04-TwoRighteousnesses/Week04-TwoRighteousnesses.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/04-TwoRighteousnesses)
 
 ---
 
@@ -127,8 +124,8 @@
 **Discussion:** Which half of the Berean posture is harder for you: receiving eagerly or examining daily? What was the last teaching you tested rather than absorbed?
 **Reading for next week:** Genesis 3:1–13; 1 Corinthians 13
 
-- [Teaching Guide](05-TheBereanMethod/Week05-TeacherGuide.md)
-- [Presentation](05-TheBereanMethod/Week05-TheBereanMethod.pdf)
+- [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/05-TheBereanMethod)
+
 ---
 
 ## Week 6: Love, Compassion, and Truth
@@ -145,8 +142,7 @@
 **Discussion:** Where is the line between compassion and enabling? How can a class member speak truth without weaponizing it, and love without surrendering it?
 **Reading for next week:** Deuteronomy 8:1–10; Genesis 22:1–2
 
-- [Teaching Guide](06-LoveCompassionTruth/Week06-TeacherGuide.md)
-- [Presentation](06-LoveCompassionTruth/Week06-LoveCompassionAndTruth.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/06-LoveCompassionTruth)
 
 ---
 
@@ -166,8 +162,8 @@
 **Discussion:** Why does God test people He already knows completely? What did the Hezekiah case reveal that forty faithful years had not?
 **Reading for next week:** Acts 2:36–41; 1 Corinthians 11:23–29
 
-- [Teaching Guide](07-FaithTests/Week07-TeacherGuide.md)
-- [Presentation](07-FaithTests/FaithTestsAcrossCovenants.pdf)
+- [Teaching Guide and Presentation](0https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/07-FaithTests)
+
 
 ---
 
@@ -186,8 +182,7 @@
 **Discussion:** Which category of test does our congregation talk about least? What does weekly self-examination at the table actually involve?
 **Reading for next week:** Romans 12:1–2; Malachi 1:6–14
 
-- [Teaching Guide](08-TheChurchsTests/Week08-TeacherGuide.md)
-- [Presentation](08-TheChurchsTests/Week08-TheChurchsTests.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/08-TheChurchsTests)
 
 ---
 
@@ -206,8 +201,7 @@
 **Discussion:** If your time this week were an animal brought to Malachi's altar, what condition would it be in? What are the "first minutes" of your day currently given to?
 **Reading for next week:** 1 Corinthians 14:26–40; Jude 3
 
-- [Teaching Guide](09-TheAlterToday/Week09-TeacherGuide.md)
-- [Presentation](09-TheAlterToday/Week09-TheAlterToday.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/09-TheAlterToday)
 
 ---
 
@@ -230,8 +224,7 @@
 **Discussion:** Why is "God is clearly using them" not, by itself, a warrant for office? Where do we feel the pull of results-based validation today?
 **Reading for next week:** 1 Timothy 2:1–15; 1 Corinthians 11:2–16
 
-- [Teaching Guide](10-ApostolicAppointment/Week10-TeacherGuide.md)
-- [Presentation](10-ApostolicApointment/Week10-ApostolicAppointment.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/10-ApostolicAppointment)
 
 ---
 
@@ -250,8 +243,7 @@
 **Discussion:** How does the "let a woman learn" command reframe the passage? Why does grounding matter: what's the difference between a rule from culture and a pattern from creation? Where must we be careful to claim only what the text claims?
 **Reading for next week:** Matthew 28:16–20; Hebrews 5:11–6:3
 
-- [Teaching Guide](11-GodsCreatedOrder/Week11-TeacherGuide.md)
-- [Presentation](11-GodsCreatedOrder/Week11-GodsCreatedOrder.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/11-GodsCreatedOrder)
 
 ---
 
@@ -272,8 +264,7 @@
 **Discussion:** Who taught the faith to you, and what did it cost them? Whom will you teach, and what is the first step this month?
 **Reading:** none assigned: the course's standing assignment continues: one chapter daily, eager and examining.
 
-- [Teaching Guide](12-HouseholdsAndTeachers/Week12-TeacherGuide.md)
-- [Presentation](12-HouseholdsAndTeachers/Week12-HouseholdsAndTeachers.pdf)
+- [Teaching Guide and Presentation](https://github.com/UsefulEngines/EvangelismPublic/tree/0d23b01493b96d78b707994fdd25324afe5a8f47/2026-Q4/12-HouseholdsAndTeachers)
 
 ---
 
@@ -293,25 +284,16 @@
 | 11 | 1 Timothy 2:1–15; 1 Corinthians 11:2–16 |
 | 12 | Matthew 28:16–20; Hebrews 5:11–6:3 |
 
-## Existing Materials Map (for the teacher)
-
-| Week | Supporting resources already in hand |
-|---|---|
-| 1–2 | *The Purpose of the Good and How Sacrifice Reveals It* (article + bulletin summary) |
-| 3 | *Good Intentions Are Not Enough* (article + Uzzah study) |
-| 4 | *Living Between Two Righteousness's*; *How to Know God* |
-| 5 | *How to Discern the Sacred*; *How to Discern the Truth* |
-| 6 | *Empathy, Love, Truth*; *Empathy, Truth, and the Cave* (reframe per Week 6 pastoral notes) |
-| 7–8 | *The Tests of Faith Across Covenant History* research document |
-| 9 | *Trained to Discern the Difference*: speech, deck, and talking points (deck reusable nearly as-is) |
-| 10 | *The Argument from Apostolic Appointment*; research compilation Parts II–III |
-| 11 | *1 Timothy 2 Exegesis v2*; *God's Created Order v2*; compilation Part I (ante-Nicene practice) |
-| 12 | *Prophet, Priest, King* speech (reframe household material for mixed audience per Week 12 flow) |
-
+---
 
 ## Notes
 
+**Resources**
+- [Faith Tests Across Covenants]()
+- [The 3 Types of God's Will]()
+- [The Good - Terminology]()
+
 **Quotes**
- - "For obedience is distrust of oneself in everything, however good it may be, right to the end of one's life." - Step4 The Ladder of Divine Ascent, St John Climacus
+ - "For obedience is distrust of oneself in everything, however good it may be, right to the end of one's life." - Step4 The Ladder of Divine Ascent, John Climacus
 
  
