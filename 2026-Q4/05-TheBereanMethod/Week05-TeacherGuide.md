@@ -1,12 +1,16 @@
 # Week 5 Teacher Guide: The Berean Method: Discerning the Sacred and the True
 
-*The Obedience of Faith, Week 5 of 12. Unit II (Discernment). Companion to `Week05-TheBereanMethod.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 5 of 12. Unit II (Discernment). 
+Companion to `Week05-TheBereanMethod.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Teach the twin disciplines of eager reception and daily examination, the training regimen that produces the Hebrews 5:14 discernment the whole course has been pointing toward.
 
 **What this week must accomplish (and nothing more):** the class leaves able to name both halves of the Berean posture: *soft heart, hard questions*, and able to say why it must be *daily*, and holding one liberating permission: they may test what they hear, including in this room. This is the course's methodological center. Every prior week ended with "read like a Berean"; this is the week that cashes the phrase. If the class walks out treating daily Scripture reading as *training* rather than *duty*, the week succeeded.
 
 **Where this sits in the arc:** Week 4 secured the gift (grace, given-righteousness). This week teaches how to tell the gift from its counterfeits, which is why it opens with the question of whether the sacred can be *known* at all, and answers from 1 Corinthians 2 before teaching any technique. Order matters: discernment is a Spirit-given *faculty* before it is a human *skill*. Teach that sequence or the whole thing curdles into pride.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/1c42f1a07802aa490275fc1f46566d18c83e88c9/2026-Q4/05-TheBereanMethod/Week05-TheBereanMethod.pdf)
 
 ---
 
