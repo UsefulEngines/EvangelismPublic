@@ -1,12 +1,16 @@
 # Week 4 Teacher Guide: Two Righteousnesses, and How God Is Known
 
-*The Obedience of Faith, Week 4 of 12. Opens Unit II (Discernment). Companion to `Week04-TwoRighteousnesses.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 4 of 12. Opens Unit II (Discernment). 
+Companion to `Week04-TwoRighteousnesses.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Ground the whole course in grace before pressing further: the difference between self-built righteousness and God's gift-righteousness, and the New Covenant promise of truly knowing God.
 
 **What this week must accomplish (and nothing more):** the class leaves holding one sentence and believing it: *obedience is the shape of faith, not its price.* This is the single most important week in the twelve for keeping the course from being heard as works-salvation. Everything before it (three weeks of "sincerity isn't enough") has deliberately created a little pressure; this week releases it into grace. Everything after it (tests, sacrifice, order, commission) describes obedience and will be misheard as earning unless this week lands.
 
 **Where this sits in the arc:** Weeks 1–3 diagnosed. This is the turn. The emotional job of the hour is *relief*: the class has been shown that sincerity and results both fail as standards, and some thoughtful members are quietly wondering whether they themselves are sincere-but-lost. The answer is not "try harder to be sincere in the right way." The answer is a different righteousness altogether, received rather than achieved. Lead with that relief; don't make them wait for it.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/04-TwoRighteousnesses/Week04-TwoRighteousnesses.pdf)
 
 ---
 

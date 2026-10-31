@@ -8,8 +8,7 @@
 
 **The bridge from Week 1:** last week ended on a deliberately unresolved question: *how does the invisible become visible, and how does a person learn to see it?* This week answers the first half (sacrifice makes it visible). Weeks 5 and 9 answer the second half (the Berean practice trains the seeing). Say this out loud at the recap; a course that visibly keeps its promises earns trust.
 
-- [Teaching Guide](Week01-TeacherGuide.md)
-- [Presentation](TrainedToDiscernTheDifference-pptx.pdf)
+- [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/01-TrainedToDiscernTheDifference/TrainedToDiscernTheDifference-ppt.pdf)
 
 ---
 

@@ -1,6 +1,8 @@
 # Week 3 Teacher Guide: Good Intentions Are Not Enough
 
-*The Obedience of Faith, Week 3 of 12. Companion to `Week03-GoodIntentionsAreNotEnough.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 3 of 12. 
+Companion to `Week03-GoodIntentionsAreNotEnough.pptx`. 
+Scripture from the NET Bible.*
 
 **Aim:** Show from Uzzah and his companions across Scripture that sincerity cannot substitute for God's revealed will; the governing question of worship is "Has God spoken?"
 
@@ -9,6 +11,8 @@
 **Where this sits in the arc:** Week 2 ended on "Saul had layer three and thought it was layer four." Week 3 is that single sentence expanded to the length of the whole Bible: the recurring human substitution of our judgment for God's word. It is also the *last* of the three diagnostic weeks. Next week the course turns to grace (Romans 10), so this lecture should press hard on the diagnosis while pointing forward: we are naming the disease now; the cure is Unit II.
 
 **A tone warning, read this first:** this is the week most easily preached as harshness: an angry God zapping people over technicalities. That reading is false, and it will lose half your class. The point is never that God is severe about details; it is that God's *holiness* is real and man's presumption is real, and that God, precisely because He wants union (Week 1), tells us how to approach Him rather than leaving us to guess. The severity in these accounts is the exception that reveals the stakes, recorded so the pattern could be seen. Teach reverence, not fear of tripwires.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/03-GoodIntentions/Week03-GoodIntentionsAreNotEnough.pdf)
 
 ---
 

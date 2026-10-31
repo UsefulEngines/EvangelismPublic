@@ -289,9 +289,9 @@
 ## Notes
 
 **Resources**
-- [Faith Tests Across Covenants]()
-- [The 3 Types of God's Will]()
-- [The Good - Terminology]()
+- [Faith Tests Across Covenants](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/Resources/TheTestsOfFaithAcrossCovenantHistory.pdf)
+- [The 3 Types of God's Will](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/Resources/TheThreeTypesOfGodsWill.pdf)
+- [The Good - Terminology](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/Resources/TheGood-Terminology.pdf)
 
 **Quotes**
  - "For obedience is distrust of oneself in everything, however good it may be, right to the end of one's life." - Step4 The Ladder of Divine Ascent, John Climacus

@@ -1,10 +1,12 @@
-# Week 1 Teacher Guide: The Purpose of the Good
+# Week 2 Teacher Guide: The Purpose of the Good
 
-*The Obedience of Faith, Week 1 of 12. Companion to the deck `Week01-PurposeOfTheGood.pptx`. Scripture from the NET Bible.*
+*The Obedience of Faith, Week 2 of 12. Companion to the deck `Week01-PurposeOfTheGood.pptx`. Scripture from the NET Bible.*
 
 **Aim:** Establish that goodness is God's own character, its purpose is union with His people, and the course's controlling verse is Hebrews 5:14.
 
 **What this week must accomplish (and nothing more):** plant three sentences the class can repeat: *the Good has a source; its purpose is union; recognizing it is trained by practice.* Every later week hangs on those three. Resist covering sacrifice, testing, or church order this week; the road slide previews them and that is enough.
+
+[Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/0bfac433ec0491607228f68eb53ed166d6382c6c/2026-Q4/02-PurposeOfTheGood/Week02-PurposeOfTheGood.pdf)
 
 ---
 
