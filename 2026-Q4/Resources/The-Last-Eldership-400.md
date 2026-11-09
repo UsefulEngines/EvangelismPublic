@@ -1,4 +1,4 @@
-The Last Eldership
+# The Last Eldership
 
 Every congregation that has lost its eldership can name the day it happened: the elders resigned, or the last one died, or no one stood. Almost none can name the day the eldership actually ended, because that came years earlier and nothing visible changed. What Paul described to the Ephesian elders, men whom "the Holy Spirit has made overseers" to guard the flock against wolves "from among your own group" (Acts 20:28–30), had already stopped existing.
 
