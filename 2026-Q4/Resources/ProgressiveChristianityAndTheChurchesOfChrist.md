@@ -10,6 +10,32 @@ Scripture quotations are from the NET Bible unless otherwise noted.
 
 ---
 
+## Abstract and Key Points
+
+*The question.* What happens to a church's teaching and leadership when it changes how it reads the Bible? This summary measures the answer against the pattern of the New Testament church: Scripture above tradition and feeling, each congregation led by its own appointed elders, and no name or structure beyond what the apostles gave.
+
+*What "progressive" means here.* It is not a set of conclusions. It is a way of reading. Progressive Christianity treats the Bible as an early stage in a process that is still moving. The reader's job becomes guessing where the process is headed instead of obeying what the text says. Authority stops being something God handed down and becomes something people produce by talent, results, or agreement.
+
+*The test.* When the Bible and the "direction of history" disagree, which one wins? A conservative reader may be wrong about a verse, but when shown the text he changes. A progressive reader, shown the text, says it was only a step along the way (1 Corinthians 14:37).
+
+*What the movement's own history shows.* The Restoration Movement split into three branches that began with the same approach to Scripture. One branch, the Disciples of Christ, adopted the progressive method. It accepted the unimmersed into membership, turned itself into a denomination in 1968, and later changed its teaching on marriage. It has lost about six of every seven members since 1958. The Churches of Christ kept the original approach and have declined only slowly. One thing separates the branches: how they handle the Bible's authority.
+
+*How the change enters Churches of Christ.* It does not come as an attack on the Bible. It comes on one issue, women's roles, using one argument: that Scripture is moving in a direction and we should keep going. But that argument is a method, not a conclusion. The churches that used it fifty years ago for women's ordination used the same words a generation later to redefine marriage. Paul grounded the assembly instruction in creation, not culture (1 Timothy 2:13). Once that is set aside, nothing in the Bible is safe from the same reasoning.
+
+*What happens to elders.* Elders exist to guard what God delivered (Acts 20:28–30; Titus 1:9). When the truth is treated as a work in progress, there is nothing left for them to guard, and the office changes shape. Five things follow. Elders stop teaching and become a board that approves plans. The preacher becomes the real authority. Most congregations end up with no elders at all, and the empty space is filled by a strong man, an outside group, or a majority vote. Some elderships use their authority to remove one of God's qualifications for their own office. And churches that lose control of their property, pulpit, or credentials cannot resist being changed from outside.
+
+*An old pattern.* The same failures appear before 300 AD: envy at Corinth, Diotrephes who "loved to be first," leaders chasing money and status. In every case the trigger was personal, not doctrinal, and when local elders failed, authority moved outward to synods and finally to the emperor. It never came back. A church with no elders, a dominant preacher, and a business meeting has recreated those conditions.
+
+*The "feminization" claim.* Some blame the loss of male leadership on churches becoming feminized. The evidence does not support that as a direct cause; the share of women in Churches of Christ has been stable and is typical of all churches. What the claim really describes is leaders who will not teach hard truths or exercise discipline. That is a failure of authority, not a matter of gender.
+
+*An honest caution.* Holding to the Bible slows decline but has not reversed it. Churches of Christ have their own problem: in the most conservative congregations, most children leave. Guarding doctrine is not enough. Elders must also shepherd souls (Acts 20:28).
+
+*What to do.* Hold beliefs because Scripture teaches them, not because they are traditional or popular. Have elders who teach. Reject both the one-man church and the majority-vote church. Hold the biblical position on women's roles with precision: restrict the one thing Paul restricts, and honor every other ministry the New Testament gives women, so there is nothing for the progressive argument to grip. Keep the building, the pulpit, and the credentials local.
+
+*The sum.* When authority moves from what God delivered to what people decide, doctrine becomes temporary, elders become a board, the church becomes an organization, and within two generations most of the people are gone. The alternative is Paul's charge: guard the flock, teach the whole counsel, expect wolves from within, and remember that the authority was given by the Holy Spirit and not by the men who hold it.
+
+---
+
 ## 1. The Question and the Baseline
 
 This document asks what happens to a congregation's doctrine and governance when it adopts the interpretive method of progressive Christianity, and it asks the question specifically of the Churches of Christ. The baseline from which it measures is the pattern of the New Testament and the churches of the first two centuries, which the American Restoration Movement set out to recover: Scripture holds precedence over tradition, experience, and culture; congregations are governed by a plurality of local, appointed, teaching elders; and the church claims no name, creed, or structure beyond what the apostles delivered.
