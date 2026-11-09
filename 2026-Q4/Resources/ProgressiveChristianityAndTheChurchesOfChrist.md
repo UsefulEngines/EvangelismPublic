@@ -2,9 +2,9 @@
 
 ## What the Method Does to Doctrine and to the Eldership
 
-*A concise companion to "Progressive Christianity and Its Outcomes," "Yet Another Analysis of 1 Timothy 2:9–15," and the course "The Obedience of Faith"*
+*A companion to "Yet Another Analysis of 1 Timothy 2:9–15," the course "The Obedience of Faith", and "Progressive Christianity and Its Outcomes". Each available at: https://TeachTheWord.Church. Individual links provided within the references section herein.*
 
-Phil Pennington, with research assistance · November 2026 · Bible Research project
+Phil Pennington, with research assistance · November 2026 · Bible Research Project
 
 Scripture quotations are from the NET Bible unless otherwise noted.
 
@@ -14,7 +14,7 @@ Scripture quotations are from the NET Bible unless otherwise noted.
 
 This document asks what happens to a congregation's doctrine and governance when it adopts the interpretive method of progressive Christianity, and it asks the question specifically of the Churches of Christ. The baseline from which it measures is the pattern of the New Testament and the churches of the first two centuries, which the American Restoration Movement set out to recover: Scripture holds precedence over tradition, experience, and culture; congregations are governed by a plurality of local, appointed, teaching elders; and the church claims no name, creed, or structure beyond what the apostles delivered.
 
-Progressive Christianity is defined here by method rather than by any conclusion. The method relocates the source of teaching authority from a received deposit to an ongoing process, whether that process is called reason, experience, the Spirit's continuing work, or the trajectory of redemption. In the vocabulary of the 1 Timothy 2 exegesis (Part Eight) and of the course (Week 10), authority becomes *generated* rather than *conferred*. Paul addressed that question directly in the passage that regulates the assembly: "If anyone considers himself a prophet or spiritual person, he should acknowledge that what I write to you is the Lord's command" (1 Cor 14:37). Gifting and maturity are real; they do not adjudicate order. Everything that follows is an account of what happens when that verdict is reversed.
+Progressive Christianity is defined here by method rather than by any conclusion. The method relocates the source of teaching authority from a received deposit to an ongoing process, whether that process is called reason, experience, the Spirit's continuing work, or the trajectory of redemption. In the vocabulary of the [1 Timothy 2 exegesis](https://tinyurl.com/YetAnother1Tim2) (Part Eight) and of the [Obedience Of Faith](https://tinyurl.com/ObeyByFaith) course (Week 10), authority becomes *generated* rather than *conferred*. Paul addressed that question directly in the passage that regulates the assembly: "If anyone considers himself a prophet or spiritual person, he should acknowledge that what I write to you is the Lord's command" (1 Cor 14:37). Gifting and maturity are real; they do not adjudicate order. Everything that follows is an account of what happens when that verdict is reversed.
 
 The method is testable by one question. When Scripture and the perceived direction of the process conflict, which governs? A conservative reader may be wrong about the text and will change when corrected from it. A progressive reader, confronted with a text that says the opposite of his conclusion, reinterprets the text as a stage to be moved beyond.
 
@@ -108,4 +108,4 @@ The whole can be compressed into a sentence. When authority is relocated from th
 
 **Other.** Pew, [Churches of Christ gender composition](https://legacy.pewresearch.org/religion/religious-landscape-study/religious-denomination/churches-of-christ/gender-composition). Gallup, [young men and religion](https://news.gallup.com/poll/708410/young-men-religious-young-women.aspx) (2025). *Christianity Today*, [UMC disaffiliation total](https://www.christianitytoday.com/2023/12/united-methodist-church-split-total-umc-disaffiliation-lgbt/) (2023). Haskell, Flatt, Burgoyne, ["Theology Matters"](https://www.redeemer.ca/research-publications/theology-matters-comparing-the-traits-of-growing-and-declining-mainline-protestant-church-attendees-and-clergy/) (2016).
 
-**Prior work in this project.** "Progressive Christianity and Its Outcomes" (full article). "Yet Another Analysis of 1 Timothy 2:9–15." "The Obedience of Faith," Weeks 5, 10, 11.
+**Prior work in this project.** ["Progressive Christianity and Its Outcomes"](https://tinyurl.com/progressivechurches) (full article), ["Yet Another Analysis of 1 Timothy 2:9–15"](https://tinyurl.com/YetAnother1Tim2), and ["The Obedience of Faith"](https://tinyurl.com/ObeyByFaith), Weeks 5, 10, 11.
