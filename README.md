@@ -20,7 +20,7 @@
 - [Resource - The Three Types of God's Will](2026-Q4/Resources/TheThreeTypesOfGodsWill.pdf)
 - [Resource - The Good, Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
 - [Resource - Progressive Christianity Outcomes](2026-Q4/Resources/ProgressiveChristianityAndTheChurchesOfChrist.pdf)
-- [Resource - 1 Timothy 2:9-15 Exegesis](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
+- [Resource - The 1 Timothy 2:9-15 Debate](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
 
 ## Commentary
 
