@@ -37,6 +37,7 @@
 - [Trained to Discern the Difference](2026-Q3/Devotionals/TrainedToTellTheDIfference.pdf)
 - [The Debate of this Generation - 1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
 - [Eldership and Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf)
+- [Progressive Christianity Outcomes - Full](2026-Q4/Resources/ProgressiveChristianityAndItsOutcomes.pdf)
 
 ## Recommended Topics
 
