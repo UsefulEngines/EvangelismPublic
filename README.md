@@ -20,6 +20,7 @@
 - [Resource - The Three Types of God's Will](2026-Q4/Resources/TheThreeTypesOfGodsWill.pdf)
 - [Resource - The Good, Terminology](2026-Q4/Resources/TheGood-Terminology.pdf)
 - [Resource - Progressive Christianity Outcomes](2026-Q4/Resources/ProgressiveChristianityAndTheChurchesOfChrist.pdf)
+- [Resource - 1 Timothy 2:9-15 Exegesis](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
 
 ## Commentary
 
@@ -34,14 +35,14 @@
 - [The Rise of Man-Made Systems](2026-Q3/Devotionals/TheRiseOfManmadeSystems.pdf)
 - [The Purpose of the Good, and how Sacrifice Reveals It](2026-Q3/Devotionals/ThePurposeOfTheGood-v2.pdf)
 - [Trained to Discern the Difference](2026-Q3/Devotionals/TrainedToTellTheDIfference.pdf)
+- [The Debate of this Generation - 1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
+- [Eldership and Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf)
 
 ## Recommended Topics
 
-- [1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf) - On the debate of this generation.
-- [Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf) - How do Elders delegate teaching authority?
-- [God of Promises](2025-Q4/Promises_of_God_Outline.pdf) - God's character, the basis for both promise and covenant.
-- [God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
-- [The Gospel](2026-Q2/Romans-2026-Q2.pdf) - Paul the Apostle's seminal message to the church in Rome.
-- [Church Unity](2025-Q3/Unity-Outline.pdf) - A call to Reconciliation and the Obedience of Faith.
+- [Course - God of Promises](2025-Q4/Promises_of_God_Outline.pdf) - God's character, the basis for both promise and covenant.
+- [Course - God of Righteousness](2026-Q1/RighteousnessOutline.pdf) - God's righteousness versus mankind's attempts at morality.
+- [Course - The Gospel](2026-Q2/Romans-2026-Q2.pdf) - Paul the Apostle's seminal message to the church in Rome.
+- [Course - Church Unity](2025-Q3/Unity-Outline.pdf) - A call to Reconciliation and the Obedience of Faith.
 
 ---
