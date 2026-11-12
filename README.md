@@ -38,6 +38,7 @@
 - [The Debate of this Generation - 1 Timothy 2:9-15](2026-Q1/Resources/1Timothy2-Exegesis.pdf)
 - [Eldership and Teaching Authority](2026-Q1/Resources/OversightTeaching.pdf)
 - [Progressive Christianity Outcomes - Full](2026-Q4/Resources/ProgressiveChristianityAndItsOutcomes.pdf)
+- [The Last Eldership](2026-Q4/Resources/The-Last-Eldership.pdf)
 
 ## Recommended Topics
 

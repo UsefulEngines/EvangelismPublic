@@ -64,4 +64,4 @@ Paul's charge to the elders at Ephesus ends with a sentence that is easy to read
 
 ---
 
-*Fuller treatment: "Progressive Christianity and Its Outcomes," "Progressive Christianity and the Churches of Christ," and the research abstract, all in the Bible Research project; exegetical foundation in "Yet Another Analysis of 1 Timothy 2:9–15" and Weeks 10–11 of "The Obedience of Faith."*
+*Fuller treatment: "Progressive Christianity and Its Outcomes," "Progressive Christianity and the Churches of Christ," and the research abstract, all in the Bible Research project; exegetical foundation in "Yet Another Analysis of 1 Timothy 2:9–15" and Weeks 10–11 of "The Obedience of Faith." Each article available at https://TeachTheWord.Church *
