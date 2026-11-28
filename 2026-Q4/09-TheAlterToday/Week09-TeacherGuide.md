@@ -14,6 +14,8 @@ Scripture from the NET Bible.*
 1. *The grace guardrail* (Weeks 4, 7, 8): this is a "sacrifice" week, so the works-righteousness reflex is live. The banner "mercy first, altar second" is on slide 5; the once-for-all guard is the *entire* first segment. Keep both loud.
 2. *The atonement guardrail* (new this week, and the more important one): a lesson calling believers to "offer sacrifices" can be misheard as adding to the cross, as if Christ's work were incomplete and we finish it. Slide 2 exists precisely to slam that door before the turn. Christ's atoning sacrifice is *finished, once for all, unrepeatable.* Nothing we offer atones for anything. Our sacrifices are *response and worship*, never *propitiation*. Say this explicitly; a Catholic-background or a scrupulous member will especially need to hear it.
 
+**A third thread, new this week: the worldview audit.** Romans 12:2 assumes we are already being shaped by "this present age." Segment 4 and the discussion now include a short reflection on *where we learned to think about God, the body, and the self*, built on the Romans 1 ↔ Romans 12 parallel. Background, the "two errors, one root" frame, and extra questions are in `Week09-WorldviewSupplement.md`. Scripture is the test, not world-view lineage: tracing where an ideological assumption came from helps us notice it; it never refutes it. 
+
 [Presentation](https://github.com/UsefulEngines/EvangelismPublic/blob/507922c87c9dcea068261dbaeae471be07d90f87/2026-Q4/09-TheAlterToday/Week09-TheAltarToday.pdf)
 
 ---
@@ -60,15 +62,25 @@ Open with the question and let it hang: "Do Christians offer sacrifices? Most of
 
 This segment is the intellectual summit of the whole course: where four units converge. Give it full weight even though it's late.
 
+**Open with the shaping question** *(core · S1, ~30 sec)*. Before the first click, say: "Nobody thinks from nowhere. Every one of us walked into this room with a way of seeing God, ourselves, and our bodies that somebody taught us. Most of it we absorbed without ever deciding to. Paul assumes exactly that, and the question he forces on us is whether we know who's been doing the teaching."
+
 **Romans 12:1–2 as one unit** (first click). Read both verses together; most people stop at verse 1 and miss the payoff. Verse 1: present your *bodies.* Verse 2: "be transformed by the renewing of your *mind*, so that you may test and approve what is the will of God: what is good and well-pleasing and perfect." Body *and* mind, both on the altar.
+
+**At "present your bodies"** *(core · S2, ~30 sec)*: "Notice what Paul put on the altar: bodies. Not feelings. Not intentions. Not an idea of devotion. The same body Jesus offered in Hebrews 10 is the kind of thing we are asked to offer. If the sacrifice that saved us was a body, then the body isn't a shell to be endured. It is the material of worship."
+
+**At "do not be conformed"** *(core · S3, ~30 sec)*: "Think of a mold. Something presses on soft material until it takes the shape of the mold. Paul says that's already happening: 'this age' has a shape, and it presses on us. The only way out is not to be pressed harder by a different mold. It's to be transformed, changed from the inside by renewal. And notice the verb: we submit to it. God does the renewing." (The Greek behind "conformed" pictures being pressed into an outward pattern; "transformed" is a change of form from within. Renewal is something God does as we yield, as Titus 3:5 says.)
 
 **The why of the renewed mind** (second click). Look at the *purpose clause*: the mind is renewed "so that you may test and approve… what is *good.*" The renewal has an aim, and the aim is discernment of the Good.
 
 **The convergence** (third click): let this land slowly, it's the peak. That purpose clause is *Hebrews 5:14 in Paul's handwriting.* The renewed mind exists to discern the Good: the exact faculty the entire course has been training since Week 1 (the Good as God's character), through Week 5 (the Berean eye, "trained by practice"). **The living sacrifice and trained discernment are not two subjects. They are verses one and two of the same paragraph.** Sacrifice (Units I, III) and discernment (Unit II) were the same thing all along. Invite the class to open Romans 12 and *see* it: this is checkable, not asserted, and seeing it themselves is the point.
 
+**The mirror with Romans 1** *(core · S4, ~60 sec)*. Have them keep a finger in Romans 1. The pairs, each checkable in any interlinear: **worship** (people "worshiped and served" the creature, *elatreusan*, 1:25 → "your reasonable service," *latreia*, 12:1); **bodies** (their bodies dishonored, *sōmata*, 1:24 → "present your bodies," *sōmata*, 12:1); **mind** (they did not "see fit" to approve God, *edokimasan*, so God gave them to a mind that fails the test, *adokimon noun*, 1:28 → a renewed mind that can "test and approve," *dokimazein*, 12:2). Then say: "Here's something that was hiding in plain sight. In Romans 1, people exchanged God for the creature, they dishonored their bodies, and God gave them up to a mind that failed the test. In Romans 12, the very same three words come back in reverse: worship, bodies, and a mind that can test and approve. Romans 12 is the repair of Romans 1." (Also worth a glance: 12:3, "think soberly," answers the futile thinking of 1:21–22.)
+
 **The reframe** (fourth click). Therefore: daily renewal in the Word is *not preparation for* your sacrifice. It *is* your sacrifice: the daily portion of it. The mind laid on the altar every morning is the offering itself, not the warm-up. This dignifies the ordinary morning chapter (the thing that can feel like a duty or a box to check) as an actual altar act, the living sacrifice being renewed before it crawls off.
 
-**The banner** (fifth click): "Mercy first, altar second: a thank offering, not a payment." The grace guardrail one final time. Romans 12:1 opens "by the mercies of God": the *therefore* rests on eleven chapters of grace. What we lay down is gratitude for a gift, never a bid to earn one. To discussion.
+**Two errors, one root** *(core · S5, ~45 sec)*: "There are two ways to get the body wrong. One says the real you is your mind or your inner feeling, and the body is just equipment you happen to be wearing. The other says the body is only matter with no purpose except what we assign it. They sound like opposites. But they agree on one thing: nothing in the body was given. We get to decide what it means. That's the oldest sentence in the Bible's story: 'you will be like God, knowing good and evil.'" (Optional pointers: Ps 100:3 and 1 Cor 6:19–20, "you are not your own." Keep this to the one statement; full background is in the supplement.)
+
+**The banner** (fifth click): "Mercy first, altar second: a thank offering, not a payment." The grace guardrail one final time. Romans 12:1 opens "by the mercies of God": the *therefore* rests on eleven chapters of grace. What we lay down is gratitude for a gift, never a bid to earn one. *(core · S9, ~20 sec; add one sentence to the banner)*: "None of this is a way to earn anything. We're not auditing ourselves to be good enough for the altar. We're doing what Paul's 'therefore' invites: in light of mercy that's already been given, we ask God to keep renewing a mind he has already claimed." To discussion.
 
 ## Segments 5–6: Discussion and Close (45:00–57:00 · Slides 6–7)
 
@@ -76,7 +88,11 @@ This segment is the intellectual summit of the whole course: where four units co
 
 **Q2: "What are the 'first minutes' of your day currently given to?"** The practical companion. For most people the first minutes go to the phone, the news feed, email, or the day's worries, whatever "gets your mind before God does." Steer away from legalism about a specific clock hour; the principle is *firstfruits versus leftovers* applied to *attention.* Seed if quiet: "What has your mind before God does?" The honest answers are usually convicting on their own; you don't need to press.
 
-**The close (slide 7, ~2 min).** Unit III ends; Unit IV (God's House) begins next week; it's *contested* ground, so signal it kindly. Reading: 1 Corinthians 14:26–40 (what governs public worship; note v.37's "the Lord's command") and Jude 3 ("the faith once for all *entrusted*": where authority comes from). Both flagged. Give the class a heads-up: the next two weeks handle genuinely disputed questions about church order, and we'll do it exactly as Bereans: eager *and* examining, testing even the teacher (Week 5's permission). Carry sentence: say it together. Close on 2 Samuel 24:24. Dismiss on time.
+- **Intrinsic worth** (S6): "Scripture grounds a person's worth in the image of God, and that doesn't switch on or off with ability, age, productivity, or feeling. Genesis 9 and James 3 still speak of it after the Fall. A newborn, a person with dementia, and a person in a wheelchair carry the same image as the strongest and sharpest person in the room. Any worldview that makes worth depend on capacity or self-perception has left Genesis."
+
+- **Male and female** (S7): "God made humanity male and female and called it very good. Both are the image. Paul's picture of the body in Romans 12 and 1 Corinthians 12 is different members, different functions, no member dispensable. In two weeks we'll look at what that means for how God's house is ordered. For today, hold onto this: different roles are not different worth. And God's design is something we discover, not something we assign." (Plant the anthropology here and leave church order for Week 11.)
+
+**The close (slide 7, ~2 min).** Unit III ends; Unit IV (God's House) begins next week; it's *contested* ground, so signal it kindly. Reading: 1 Corinthians 14:26–40 (what governs public worship; note v.37's "the Lord's command") and Jude 3 ("the faith once for all *entrusted*": where authority comes from). Both flagged. Give the class a heads-up: the next two weeks handle genuinely disputed questions about church order, and we'll do it exactly as Bereans: eager *and* examining, testing even the teacher (Week 5's permission). Carry sentence: say it together. *(If you ran the worldview audit, consider adding a second line: "I am not my own. I was made, I was bought, and I belong on the altar: body and mind." Compare it with the carry sentence already on slide 7 before changing the slide.)* Close on 2 Samuel 24:24. Dismiss on time.
 
 ---
 
@@ -92,6 +108,12 @@ This segment is the intellectual summit of the whole course: where four units co
 
 **"Is God really displeased with tired, distracted worship? Sometimes leftovers are all I've got."** Careful, grace-filled answer here, because a weary single parent or a sick member may hear condemnation where none is meant. Malachi's rebuke is aimed at people bringing the blind and lame *while keeping the good for themselves* (Mal 1:14): deliberate, calculated stinginess, not the honest exhaustion of someone giving God their real, limited best. The widow's two coins were "leftovers" by any external measure, and Jesus said she gave more than all the rich (Mark 12:43–44), *because* it cost her everything she had. God measures the *cost to you*, not the size of the gift. The tired parent who turns to God in genuine weariness is bringing the best of a hard day; that's the widow's mite, not Malachi's blemished lamb. The question isn't "is it impressive?" but "is it honest, and is it my real first, or my calculated leftover?"
 
+**"Are you saying the soul doesn't matter, or that feelings are suspect?"** No. Scripture holds the whole person together: body and soul (Matt 10:28), "heart, soul, strength, mind" (Luke 10:27). Paul can speak of being away from the body and at home with the Lord (2 Cor 5:8; Phil 1:23), but the Christian hope is the raised body (Rom 8:23; 1 Cor 15), not a released soul. Feelings are part of how God made us (the Psalms are full of them). The question is what has *authority*: Scripture says the heart can mislead (Jer 17:9) and calls the mind to be renewed (Rom 12:2).
+
+**"If the body matters this much, why does Paul say flesh and blood cannot inherit the kingdom (1 Cor 15:50)?"** Because "flesh and blood" there means the perishable, mortal body as it is now, not bodies as such. Paul's answer in the same chapter is that the perishable will be clothed with the imperishable (15:42–44, 53). The body is not discarded; it is transformed.
+
+**"Isn't it a stretch to say our own tradition has Enlightenment roots?"** Historians of the Stone–Campbell Movement widely note Campbell's debt to Locke and Scottish Common Sense philosophy, though he also rejected Locke on key points. It is not an accusation. It is exactly why the Berean method says test everything, including our own inherited methods. (Raise this only if you used S8.)
+
 ## Prep Checklist
 
 - [ ] Read Hebrews 10:1–18 whole: the standing/seated priest contrast needs its context
@@ -101,6 +123,9 @@ This segment is the intellectual summit of the whole course: where four units co
 - [ ] Decide your first-person "I've brought that lamb" confession for discussion Q1
 - [ ] Prepare the propitiatory-vs-eucharistic distinction in plain words (it's the top question)
 - [ ] Print/post next week's reading with both flags, and plan how you'll preview the "contested ground" of Unit IV kindly
+- [ ] Worldview thread: read Romans 1:18–32 beside 12:1–3; mark *latreuō/latreia*, *sōmata*, and *dokimazō*, and be ready to show the three pairs
+- [ ] Read Hebrews 10:5–10 ("a body you prepared for me"), Ps 100:3, and 1 Cor 6:19–20
+
 
 ## If You Run Long
 
